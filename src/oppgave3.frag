@@ -28,5 +28,8 @@ void main(){
     // Multiply by a color, only the white areas will be affected
     //    color *= vec3(1.0, 0.3, 1.);
 
+    // Invert colors to get white background
+    //    color = 1.-color;
+
     gl_FragColor = vec4(color, 1.);
 }
