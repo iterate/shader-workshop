@@ -3,6 +3,7 @@
 ## Resources (in Norwegian)
 
 Exercises: https://nilsr.substack.com/p/shaderprogrammering-oppgaver
+
 Cheat sheet and resources: https://nilsr.substack.com/p/shaderprogrammering
 
 ## Running the examples
